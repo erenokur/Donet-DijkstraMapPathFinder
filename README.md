@@ -1,5 +1,7 @@
 ## Donet-DijkstraMapPathFinder
 
+This project is one of my master project to find shortest path.
+
 ### Dijkstra's Algorithm: An Overview
 
 Dijkstra's algorithm is a popular method used to find the shortest path between nodes in a graph. It was developed by Edsger W. Dijkstra in 1956 and has since been widely used in various applications, including GPS devices, network routing protocols, and autonomous vehicle movement planning.
